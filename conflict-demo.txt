@@ -1,1 +1,1 @@
-Project status: main branch file
+Project status: main branch file changed to Branch A to introduce a merge conflict
