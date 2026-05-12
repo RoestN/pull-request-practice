@@ -1,1 +1,5 @@
+Project status: changed by branch B
+
+(in this scenario branch B has the desired changes we want on main)
+
 Project status: main branch file changed to Branch A to introduce a merge conflict
