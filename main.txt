@@ -1,4 +1,8 @@
-This is the emily branch
+This is the child branch
+
+More features and content
+
+
 
 To do: Add child branch content
 
@@ -18,3 +22,7 @@ John Doe
 Added more features
 
 Even more features
+
+The MOST features
+
+The BEST features
